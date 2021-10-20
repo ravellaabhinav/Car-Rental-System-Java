@@ -1,11 +1,29 @@
-<img src="icon.png" align="right" />
+<img src="/Diagrams/icon.png" align="right" />
 
 # **Car Rental System**
-> Java OOPS Project
-- ### Use Case Diagram
-- ### Object Model
-- ### Class Diagram
-- ### Sequence Diagram
+> - **Java OOPS Project**
+
+### Use Case Diagram:
+<img src="/Diagrams/UseCaseDiagram.jpg" />  
+
+### **____________________________________________________________________________________________________________________**
+
+### Class Diagram:
+<img src="/Diagrams/Class Diagram.jpg"/>
+
+
+
+### **____________________________________________________________________________________________________________________**
+
+### Sequence Diagram:
+<img src="/Diagrams/Sequence diagram.png" />
+
+
+### **____________________________________________________________________________________________________________________**
+### Object Model:
+<img src="/Diagrams/Object Model.jpg"/>
+
+
 
 
 ## Contribute
